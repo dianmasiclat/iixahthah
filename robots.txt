@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aekifohso.oreiliax.com/sitemap.xml
